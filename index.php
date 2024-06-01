@@ -14,7 +14,9 @@
     <?php include './comps/navbar.php'?>
     <div class="d-flex justify-content-center flex-column" style="height: 20vh; margin: 0">
         <div class="d-flex justify-content-center align-items-center" style="cursor: default;">
-            <h1>SecondHadry</h1>
+            <h1  style="font-style: italic; font-size: 60px !important; background: red;color: white;font-weight: bold;padding: 20px;border-radius: 27% 5% 25% 5% / 25% 25% 25% 25%;-webkit-box-shadow: 0 5.5px 10px 3px #dddddd;
+-moz-box-shadow: 0 5.5px 10px 3px #dddddd;
+box-shadow: 0 5.5px 10px 3px #dddddd; margin: 0">SecondHadry</h1>
         </div>
     </div>
 
